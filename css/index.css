@@ -1,0 +1,21 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+.section-4 {
+    background: url(/Images/code-5.jpg) center center no-repeat;
+    background-size: cover;
+}
+.section-4 .card {
+    margin: 5vh 5vh;
+    background-color: rgba(212, 201, 201, 0.7);
+}
+.hero {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+    width: 100%;
+}
+.cbg {
+    background: rgba(255, 255, 255, .3);
+    color: black;
+}
